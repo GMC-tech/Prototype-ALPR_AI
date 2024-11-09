@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+}
+
+.image-box {
+    border: 1px solid black;
+    width: 400px;
+    height: 300px;
+    margin: 20px auto;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
